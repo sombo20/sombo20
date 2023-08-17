@@ -10,3 +10,6 @@ I’m a programmer. Currently I'm working as a Web and Mobile developer. 🚀
 
 🛠️ Typescript  
 🧰 And more...  
+
+[LinkedIn](https://www.linkedin.com/in/sombo/) 
+e-mail - [vicentesombo@outlook.pt]
