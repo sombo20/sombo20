@@ -4,10 +4,10 @@
 I’m a programmer. Currently I'm working as a Web and Mobile developer and Asterisk Voip Developer. 🚀
 
 #### My current tools 
-📲 Front-end Mobile with React Native.
+📲 Front-end Mobile with React Native , Flutter, Kotlin
 
 🌎 Front-end Web with Reactjs  
-📡 Back-end with Nodejs , Laravel
+📡 Back-end with Nodejs , Laravel , PHP , Express, 
 
 🛠️ Typescript  
 🧰 And more...  
