@@ -6,8 +6,8 @@ I’m a programmer. Currently I'm working as a Web and Mobile developer and Aste
 #### My current tools 
 📲 Front-end Mobile with React Native , Flutter, Kotlin
 
-🌎 Front-end Web with Reactjs  
-📡 Back-end with Nodejs , Laravel , PHP , Express, 
+🌎 Front-end Web with Reactjs , HTML ,CSS, Nextjs
+📡 Back-end with Nodejs , Laravel , PHP , Express.
 
 🛠️ Typescript  
 🧰 And more...  
