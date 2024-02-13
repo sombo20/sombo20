@@ -14,6 +14,6 @@ I’m a programmer. Currently I'm working as a Web and Mobile developer and Aste
 
 [LinkedIn](https://www.linkedin.com/in/sombo/) 
 e-mail - [vicentesombo@outlook.pt]
-
+![](https://komarev.com/ghpvc/?username=sombo20&color=dc143c)
 
 [![committers.top badge](https://user-badge.committers.top/angola_public/sombo20.svg)](https://user-badge.committers.top/angola_public/sombo20)
