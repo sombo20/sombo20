@@ -8,6 +8,8 @@ I’m a programmer. Currently I'm working as a Web and Mobile developer and Aste
 
 🌎 Front-end Web with Reactjs , HTML ,CSS, Nextjs
 📡 Back-end with Nodejs , Laravel , PHP , Express.
+ MicroServices  RabbitMQ
+ Technology Voip
 
 🛠️ Typescript  
 🧰 And more...  
