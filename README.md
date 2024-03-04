@@ -9,7 +9,7 @@ I’m a programmer. Currently I'm working as a Web and developer and Asterisk Vo
 🌎 Front-end Web with Reactjs , HTML ,CSS, Nextjs
 📡 Back-end with Nodejs , Laravel , PHP , Express.
  MicroServices  RabbitMQ
- Technology Voip,DevOps
+ Technology Voip,DevOps,Machine Learning
 
 🛠️ Typescript  
 🧰 And more...  
