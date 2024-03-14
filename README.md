@@ -1,6 +1,6 @@
 # Hi 👋, Welcome here 
 
-My name is Vicente Victor Sombo . I'm an Developer with professional experience (main job) ,Fullstack ,Mobile developer And Voip Developer. I'm from Angola, living in Luanda.
+My name is Vicente Victor Sombo . I'm an Developer with professional experience (main job) ,Fullstack ,Mobile developer And Voip, I'm from Angola, living in Luanda.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sombo20&label=Profile%20views&color=0e75b6&style=flat" alt="sombo20" /> </p>
