@@ -48,6 +48,7 @@ My name is Vicente Victor Sombo . I'm an Developer with professional experience 
 ![Php](http://img.shields.io/badge/-php-5391FE?style=flat-square&logo=php&logoColor=ffffff)
 ![RabbitMQ](http://img.shields.io/badge/-RabbitMQ-5391FE?style=flat-square&logo=RabbitMQ&logoColor=ffffff)
 ![Laravel](http://img.shields.io/badge/-Laravel-5391FE?style=flat-square&logo=Laravel&logoColor=ffffff)
+![Asterisk](http://img.shields.io/badge/-Asterisk-5391FE?style=flat-square&logo=Asterisk&logoColor=ffffff)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vicentesombo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vicentesombo" /></a></p><br><br>
