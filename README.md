@@ -18,8 +18,6 @@ My name is Vicente Victor Sombo . I'm an Developer with professional experience 
 - [OWASP www-project-ksecurity](https://github.com/OWASP/www-project-ksecurity)
 - And Others Projects...
 
-- 👨‍💻 All of my projects are available at [https://github.com/sombo20](https://github.com/sombo20)
-
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sombo/](https://www.linkedin.com/in/sombo/)
 
 - 💬 Ask me about **Mobile,Backend,MicroServices,Voip,Hacking,Frontend**
